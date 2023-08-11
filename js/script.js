@@ -14,3 +14,4 @@ console.log( "множення", multiplication );
 console.log( "ділення", division );
 console.log("х в 2 ступені", degree_x);
 console.log("y в 2 ступені", degree_y);
+// done
